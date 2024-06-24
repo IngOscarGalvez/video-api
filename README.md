@@ -56,7 +56,7 @@ Esta es una API para gestionar videos, permitiendo operaciones CRUD (Crear, Leer
 1. Clona el repositorio:
 
     ```sh
-    git clone https://github.com/tuusuario/video-api.git
+    git clone https://github.com/IngOscarGalvez/video-api.git                     
     cd video-api
     ```
 
